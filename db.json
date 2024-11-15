@@ -38,13 +38,13 @@
     },
     {
       "id": "5",
-      "title": "You Don't Know JS: Scope & Closures",
-      "author": "Kyle Simpson",
-      "publish_date": "2014",
-      "page_count": 98,
-      "subjects": ["JavaScript", "Programming"],
-      "image_url": "https://covers.openlibrary.org/b/isbn/9781491904152-M.jpg"
-    },
+      "title": "The Pragmatic Programmer: Your Journey to Mastery",
+      "author": "Andrew Hunt & David Thomas",
+      "publish_date": "1999",
+      "page_count": 352,
+      "subjects": ["Software Development", "Programming"],
+      "image_url": "https://covers.openlibrary.org/b/isbn/9780201616224-M.jpg"
+    },  
     {
       "id": "6",
       "title": "Refactoring: Improving the Design of Existing Code",
